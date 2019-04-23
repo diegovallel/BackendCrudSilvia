@@ -1,2 +1,2 @@
 # BackendCrudSilvia
-A PHP  Crud for the data in the Silvia App
+A PHP  Crud for Silvia App data.
