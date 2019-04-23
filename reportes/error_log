@@ -1,0 +1,32 @@
+[16-Apr-2019 16:06:11 America/Bogota] PHP Fatal error:  Function name must be a string in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 26
+[16-Apr-2019 21:09:03 America/Bogota] PHP Fatal error:  Call to undefined method PDOStatement::insert_id() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 49
+[16-Apr-2019 21:10:05 America/Bogota] PHP Fatal error:  Call to undefined method PDOStatement::lastInsertId() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 49
+[16-Apr-2019 21:36:42 America/Bogota] PHP Fatal error:  Cannot use object of type stdClass as array in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 54
+[16-Apr-2019 22:50:30 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 85
+[16-Apr-2019 22:52:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 85
+[16-Apr-2019 22:55:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 85
+[16-Apr-2019 22:57:22 America/Bogota] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 86
+[16-Apr-2019 22:58:11 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 86
+[17-Apr-2019 00:23:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[17-Apr-2019 00:24:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[17-Apr-2019 00:25:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[17-Apr-2019 00:26:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[17-Apr-2019 00:27:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[17-Apr-2019 00:28:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[17-Apr-2019 00:28:36 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[17-Apr-2019 22:57:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 13:18:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 14:50:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 14:53:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 15:21:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 15:25:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 15:29:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 15:34:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 15:50:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 16:23:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 16:35:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 17:12:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 17:40:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[18-Apr-2019 17:44:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[19-Apr-2019 10:57:53 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
+[19-Apr-2019 13:37:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/biohacking/public_html/app_silvia/reportes/insert.php on line 154
